@@ -5,4 +5,4 @@ Disallow:
 # Allow all crawlers
 User-agent: *
 Allow: /
-Sitemap: https://bokepcina.pages.dev/sitemap.xml
+Sitemap: https://video-bokep.pages.dev/sitemap.xml
